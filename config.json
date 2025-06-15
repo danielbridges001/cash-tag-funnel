@@ -1,0 +1,41 @@
+{
+  "gumroad_email": "youremail@example.com",
+  "gumroad_api_key": "PASTE_YOUR_GUMROAD_API_KEY_HERE",
+  "cash_tag": "$THEALEPHTAV",
+  "products": [
+    {
+      "title": "The Dopamine Reset Protocol",
+      "price": 17,
+      "file": "dopamine_reset.pdf",
+      "description": "A neurohacked dopamine fast plan to unplug your burnout loops.",
+      "cover_prompt": "neon brain unplugged from digital wires"
+    },
+    {
+      "title": "AI Girlfriend Script Pack",
+      "price": 35,
+      "file": "aigf_scripts.txt",
+      "description": "20 AI scripts for emotional healing, intimacy, or chaos.",
+      "cover_prompt": "soft android in neon lighting"
+    },
+    {
+      "title": "Breakup Revenge Blueprint",
+      "price": 27,
+      "file": "revenge_blueprint.pdf",
+      "description": "Cold strategies for post-betrayal power reclamation.",
+      "cover_prompt": "shattered rose turning into a dagger"
+    }
+  ],
+  "twitter_api": {
+    "api_key": "PASTE_YOUR_TWITTER_API_KEY",
+    "api_secret": "PASTE_YOUR_TWITTER_API_SECRET",
+    "access_token": "PASTE_YOUR_TWITTER_ACCESS_TOKEN",
+    "access_token_secret": "PASTE_YOUR_TWITTER_ACCESS_SECRET"
+  },
+  "bitly_token": "PASTE_YOUR_BITLY_ACCESS_TOKEN",
+  "reddit": {
+    "client_id": "REDDIT_CLIENT_ID",
+    "client_secret": "REDDIT_SECRET",
+    "username": "REDDIT_USERNAME",
+    "password": "REDDIT_PASSWORD"
+  }
+}
